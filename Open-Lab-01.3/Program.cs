@@ -13,7 +13,7 @@ namespace Open_Lab_01._3
         static void Main(String[] args)
         {
             int num;
-            int addition;
+            int addition; 
 
             Console.WriteLine("Zadajte svoje číslo:");
             num = int.Parse(Console.ReadLine());
